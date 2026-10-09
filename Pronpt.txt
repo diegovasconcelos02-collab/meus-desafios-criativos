@@ -1,0 +1,2 @@
+Quero que a IA gere Crie um plano de estudos para estudar Língua Portuguesa para concursos, com objetivo de absorver o conteudo em 7 dias. Considere o seguinte contexto: Divida o conteúdo em dias da semana (SEG a DOM). O conteúdo deve ter formato de tabela. Seja objetivo. Evite se estender em mais de uma página.
+
